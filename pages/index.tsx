@@ -1,4 +1,5 @@
 import { FormEvent, useCallback, useState } from 'react';
+
 import { SearchResults } from '../components/SearchResults';
 
 interface Results {
